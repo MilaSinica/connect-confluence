@@ -1,8 +1,8 @@
 {
   "name": "EG Ultimate Connect App",
-  "description": "Economy Growth owned ultimate Connect app. The app is used for testing purposes in staging. It aims to be universal in terms of installation locations. After app installation, it should be available in all possible locations of the Atlassian product.",
+  "description": "Economy Growth owned ultimate Connect app for Confluence. The app is used for testing in staging. It aims to be universal in terms of installation locations. After app installation, it should be available in mostly all locations of the product.",
   "key": "com.eg-ultimate-connect-app.myapp",
-  "baseUrl": "https://56b47d140dff.ngrok.io",
+  "baseUrl": "https://inspiring-malabi-ca62a8.netlify.app",
   "vendor": {
       "name": "Atlassian Economy Growth",
       "url": "https://hello.atlassian.net/wiki/spaces/ECON/pages/1310672589/Economy+Growth+EG"
