@@ -20,7 +20,7 @@
         {
             "url": "/helloworld.html",
             "key": "eg-ultimate-connect-system-top-navigation-bar",
-            "location": "system.top.navigation.bar",
+            "location": "system.header/left",
             "name": {
                 "value": "EG Ultimate Connect App"
             },
