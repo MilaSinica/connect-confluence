@@ -209,14 +209,16 @@
         {
           "url": "/helloworld.html",
           "context": "addon",
-          "target": {
-            "type": "inlinedialog"
-          },
           "tooltip": {
             "value": "EG Ultimate Connect App"
           },
           "name": {
             "value": "EG Ultimate Connect App"
+          },
+          "icon": {
+            "width": 16,
+            "height": 16,
+            "url": "/dandelion.png"
           },
           "key": "eg-ultimate-connect-byline-item"
         }
